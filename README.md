@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Environment"
+[my_way_home_scenario]: https://user-images.githubusercontent.com/25618603/154808635-b430ab6c-be13-4e36-bdf6-62b366dc2a21.png "Environment"
 
 # Collaborative Training of Heterogeneous Reinforcement Learning Agents in Environments with Sparse Rewards:What and When to Share?
 
@@ -10,7 +10,7 @@ The key part in this work is that the agents are Heterogeneous, this is, they ha
 
 The study is carried out at very sparse scenario, a modification of My Way Home scenario, where the agent is spawned at the botton room and it has to reach to the goal, where the vest is located:
 
-![Environment][image1]
+![Environment][my_way_home_scenario]
 
 A unique reward of +1 is provided when arriving to the goal; 0 otherwise.
 
